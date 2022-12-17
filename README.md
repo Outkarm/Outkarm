@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is John
 #### I am a Full-Stack Developer in traning
 <img src="https://indoanalytica.com/static/images/bannerr.gif">
-![I am a Full-Stack Developer in traning](https://github.com/Outkarm/Outkarm/blob/main/1662222299751.jpg)
+
 
 I’m from Accra, Ghana, and I have a strong passion for programming, I would like to develop lots of user-friendly software and websites to provide users all over the world with an efficient interaction with the internet. After many years of studying economics at the University of Ghana, in pursuit of a degree in Economics, I realised my passion for Programming and decided to take matters into my own hands by taking a break from university in my final year and joining Microverse
 in order to acquire the standard education on full-stack development and the Experience of remote collaborating with different people and cultures all over the world, with the sole aim of producing unique projects. <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -29,4 +29,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Outkarm)  
 
-![Profile views](https://gpvc.arturio.dev/Outkarm)  
+![Profile views](https://gpvc.arturio.dev/Outkarm) 
+
+![I am a Full-Stack Developer in traning](https://github.com/Outkarm/Outkarm/blob/main/1662222299751.jpg)

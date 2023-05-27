@@ -9,7 +9,7 @@ in order to acquire the standard education on full-stack development and the Exp
 
 Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Outkarm&label=Profile%20views&color=0e75b6&style=flat" alt="Outkarm" /> </p>
+![Profile views](https://gpvc.arturio.dev/Outkarm) 
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: jkpordje@gmail.com  
@@ -30,7 +30,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY
 ![GitHub metrics](https://metrics.lecoq.io/Outkarm)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Outkarm)  
-
-![Profile views](https://gpvc.arturio.dev/Outkarm) 
 
 ![I am a Full-Stack Developer in traning](https://github.com/Outkarm/Outkarm/blob/main/1662222299751.jpg)

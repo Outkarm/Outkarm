@@ -9,6 +9,8 @@ in order to acquire the standard education on full-stack development and the Exp
 
 Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Outkarm&label=Profile%20views&color=0e75b6&style=flat" alt="Outkarm" /> </p>
+
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: jkpordje@gmail.com  
 - 😄 Pronouns: He/Him 

@@ -21,7 +21,18 @@ I am a passionate and driven Full-Stack Developer with a burning desire to creat
 
 Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY / RUBY ON RAILS 
 
-![GitHub metrics](https://metrics.lecoq.io/Outkarm)  <div align="center">
+![GitHub metrics](https://metrics.lecoq.io/Outkarm)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outkarm)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Outkarm&show_icons=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Outkarm)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Outkarm)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <img src="https://github.com/Outkarm/Outkarm/assets/108669691/6eb6d971-750f-47eb-8cc8-59d6c98b6aff" alt="I am a Full-Stack Developer in training">
+</div>
+<div align="center">
   <h1>Connect with me</h1>
   <div style="display: flex; flex-direction: column; justify-content: space-between; width: 80%;">
     <a href="https://github.com/Outkarm">
@@ -41,14 +52,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY / RUBY ON RAILS
     </a>
   </div>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outkarm)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Outkarm&show_icons=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Outkarm)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Outkarm)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="center">
-  <img src="https://github.com/Outkarm/Outkarm/assets/108669691/6eb6d971-750f-47eb-8cc8-59d6c98b6aff" alt="I am a Full-Stack Developer in training">
-</div>
-

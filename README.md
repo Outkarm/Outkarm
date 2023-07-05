@@ -31,4 +31,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS / SQL / RUBY / RUBY ON RAILS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Outkarm)  
 
-![I am a Full-Stack Developer in traning](https://github.com/Outkarm/Outkarm/blob/main/1662222299751.jpg)
+![I am a Full-Stack Developer in traning](https://github.com/Outkarm/Outkarm/assets/108669691/6eb6d971-750f-47eb-8cc8-59d6c98b6aff)

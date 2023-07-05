@@ -6,11 +6,13 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: jkpordje@gmail.com 
 - 😄 Pronouns: He/Him 
-- 🎉 Fun Fact: Making a Mess Can Lead to Success! 🙌  <details>
+- 🎉 Fun Fact: Making a Mess Can Lead to Success! 🙌
+  <details>
   <summary>Click to Read More</summary>
-💡 Embrace the Mess for Creative Brilliance! 💥
 
-Sometimes, the best ideas and discoveries emerge from chaotic situations. Whether it's a coding challenge or a creative endeavor, don't be afraid of making a mess. History has shown that accidental mishaps often lead to incredible innovations. So, embrace the chaos, let your creativity flow, and unlock your inner genius. The path to brilliance is often paved with unexpected messes! 🎉✨
+  💡 Embrace the Mess for Creative Brilliance! 💥
+
+  Sometimes, the best ideas and discoveries emerge from chaotic situations. Whether it's a coding challenge or a creative endeavor, don't be afraid of making a mess. History has shown that accidental mishaps often lead to incredible innovations. So, embrace the chaos, let your creativity flow, and unlock your inner genius. The path to brilliance is often paved with unexpected messes! 🎉✨
 </details>
 
 

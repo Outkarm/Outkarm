@@ -1,7 +1,7 @@
 <img src="https://indoanalytica.com/static/images/bannerr.gif">
 
 ### Hi there 👋, my name is John
-#### I am a Full-Stack Developer in traning            
+#### I am a Full-Stack Developer           
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 - 📫 How to reach me: jkpordje@gmail.com 
